@@ -226,7 +226,7 @@ const isComingFromPaymentSuccess = params.get('from');
                   type="button"
                   sx={{
                     color: "#fff",
-                    backgroundColor: "black", // Fondo negro
+                    backgroundColor: "black", 
                     textTransform: "none",
                   }}
                 >
