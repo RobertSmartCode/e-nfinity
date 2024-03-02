@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 import { Grid, Hidden } from "@mui/material";
 
 const HomeBanner: React.FC = () => {
-  const bannerMobile = "https://firebasestorage.googleapis.com/v0/b/distribuidora-barbara.appspot.com/o/Logos%2FBannerDB.png?alt=media&token=a03cc02a-3c41-4074-bf4e-8a12b42adcee";
-  const bannerDesktop = "https://firebasestorage.googleapis.com/v0/b/distribuidora-barbara.appspot.com/o/AAA%2FBarbara%20(1).png?alt=media&token=e9888bfc-1b54-4cbb-b57c-b49c1c6259d7";
+  const bannerMobile = "https://firebasestorage.googleapis.com/v0/b/e-nfinity.appspot.com/o/LogoBanner%2FBannerMobile_800X500_.webp?alt=media&token=7cf81dc0-ec88-42af-9525-426d737e2c56";
+  const bannerDesktop = "https://firebasestorage.googleapis.com/v0/b/e-nfinity.appspot.com/o/LogoBanner%2FBannerDesktop_1600X500_.webp?alt=media&token=9b6c95cd-1bfe-4828-a1e3-b271721f8688";
 
   return (
     <Grid container justifyContent="center" alignItems="center" marginTop="0px">
